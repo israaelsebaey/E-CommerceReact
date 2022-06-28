@@ -1,0 +1,208 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "blue dress",
+      "price": 1500,
+      "image": "../images/1.jpg",
+      "desc": "this is a blue dress"
+    },
+    {
+      "id": 2,
+      "name": "white dress",
+      "price": 1200,
+      "image": "../images/2.jpg",
+      "desc": "this is a white dress"
+    },
+    {
+      "id": 3,
+      "name": "beige bag",
+      "price": 950,
+      "image": "../images/3.jpg",
+      "desc": "this is a beige bag"
+    },
+    {
+      "id": 4,
+      "name": "black bag",
+      "price": 800,
+      "image": "../images/4.jpg",
+      "desc": "this is a black bag"
+    },
+    {
+      "id": 5,
+      "name": "black camera",
+      "price": 2500,
+      "image": "../images/5.jpg",
+      "desc": "this is a black camera"
+    },
+    {
+      "id": 6,
+      "name": "white camera",
+      "price": 2200,
+      "image": "../images/6.jpg",
+      "desc": "this is a white camera"
+    },
+    {
+      "id": 7,
+      "name": "pink glasses",
+      "price": 750,
+      "image": "../images/7.jpg",
+      "desc": "this is a pink glasses"
+    },
+    {
+      "id": 8,
+      "name": "gold glasses",
+      "price": 850,
+      "image": "../images/8.jpg",
+      "desc": "this is a gold glasses"
+    },
+    {
+      "id": 9,
+      "name": "channel perfume",
+      "price": 550,
+      "image": "./images/9.jpg",
+      "desc": "this is a channel perfume"
+    },
+    {
+      "id": 10,
+      "name": "dior perfume",
+      "price": 620,
+      "image": "../images/10.jpg",
+      "desc": "this is a dior perfume"
+    },
+    {
+      "id": 11,
+      "name": "gold iphone",
+      "price": 4800,
+      "image": "../images/11.jpg",
+      "desc": "this is a gold iphone"
+    },
+    {
+      "id": 12,
+      "name": "black iphone",
+      "price": 5500,
+      "image": "../images/12.jpg",
+      "desc": "this is a black iphone"
+    },
+    {
+      "id": 13,
+      "name": "white shoe",
+      "price": 450,
+      "image": "../images/13.jpg",
+      "desc": "this is a white shoe"
+    },
+    {
+      "id": 14,
+      "name": "black and white shoe",
+      "price": 570,
+      "image": "../images/14.jpg",
+      "desc": "this is a black and white shoe"
+    },
+    {
+      "id": 15,
+      "name": "gold watch",
+      "price": 690,
+      "image": "../images/15.jpg",
+      "desc": "this is a gold watch"
+    },
+    {
+      "id": 16,
+      "name": "pink watch",
+      "price": 520,
+      "image": "../images/16.jpg",
+      "desc": "this is a pink watch"
+    },
+    {
+      "id": 17,
+      "name": "white headphone",
+      "price": 320,
+      "image": "../images/17.jpg",
+      "desc": "this is a white headphone"
+    },
+    {
+      "id": 18,
+      "name": "black headphone",
+      "price": 280,
+      "image": "../images/18.jpg",
+      "desc": "this is a black headphone"
+    }
+  ],
+  "categories": [
+    {
+      "id": 100,
+      "name": "clothes",
+      "image": "images/19.jpg",
+      "desc": "this category for clothes"
+    },
+    {
+      "id": 200,
+      "name": "bags",
+      "image": "images/41.jpeg",
+      "desc": "this category for bags"
+    },
+    {
+      "id": 300,
+      "name": "cameras",
+      "image": "images/26.jpg",
+      "desc": "this category for cameras"
+    },
+    {
+      "id": 400,
+      "name": "glasses",
+      "image": "images/38.jpg",
+      "desc": "this category for glasses"
+    },
+    {
+      "id": 500,
+      "name": "perfumes",
+      "image": "images/31.webp",
+      "desc": "this category for perfumes"
+    },
+    {
+      "id": 600,
+      "name": "phones",
+      "image": "images/47.jpg",
+      "desc": "this category for phones"
+    },
+    {
+      "id": 700,
+      "name": "shoes",
+      "image": "images/34.jpg",
+      "desc": "this category for shoes"
+    },
+    {
+      "id": 800,
+      "name": "watches",
+      "image": "images/28.jpg",
+      "desc": "this category for watches"
+    },
+    {
+      "id": 900,
+      "name": "headphones",
+      "image": "images/46.jpg",
+      "desc": "this category for headphones"
+    }
+  ],
+  "users": [
+    {
+      "name": "Ali",
+      "email": "ali@gmail.com",
+      "id": 10
+    },
+    {
+      "id": 20,
+      "name": "Ahmed",
+      "email": "ahmed@gmail.com"
+    },
+    {
+      "id": 30,
+      "name": "Omar",
+      "email": "omar@gmail.com"
+    },
+    {
+      "id": "40",
+      "name": "Sara",
+      "email": "sara@gmail.com"
+    }
+  ]
+}
